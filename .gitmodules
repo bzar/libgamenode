@@ -1,0 +1,9 @@
+[submodule "lib/libwebsockets"]
+	path = lib/libwebsockets
+	url = https://github.com/warmcat/libwebsockets.git
+[submodule "lib/libsocketio"]
+	path = lib/libsocketio
+	url = https://github.com/bzar/libsocketio.git
+[submodule "lib/chck"]
+	path = lib/chck
+	url = https://github.com/Cloudef/chck.git
